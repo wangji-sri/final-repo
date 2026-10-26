@@ -1,0 +1,8 @@
+{
+  "name": "Remix final-repo",
+  "description": "Imported from GitHub: wangji-sri/final-repo",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
